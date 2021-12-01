@@ -1,0 +1,15 @@
+{
+  "name": "condor/03_good",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "eabasquliyev",
+      "email": "elgun.abasquliyev2@gmail.com"
+    }
+  ],
+  "require": {}
+}
